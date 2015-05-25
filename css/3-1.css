@@ -1,0 +1,25 @@
+
+.box1{
+	height: 50px;
+	background: red;
+	float:left;
+}
+
+.box2{
+	height: 50px;
+	background: blue;
+	/*float: right;*/
+	float: left;
+}
+
+/*第一种清除浮动方法*/
+/*p{
+	clear: both;
+}
+*/
+/*第2种清除浮动方法*/
+
+p{
+	width:100%;
+	overflow: hidden;
+}

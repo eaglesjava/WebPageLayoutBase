@@ -1,0 +1,43 @@
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+#wrap{
+	background: #3399CC;
+	margin: 0 auto;
+	width: 960px;
+}
+
+#header{
+	background: #323232;
+	width: 100%;
+}
+
+#mainbody{
+	background: #630063;
+	width: 100%;
+	overflow: hidden;
+}
+
+.left{
+	width: 800px;
+	height: 200px;
+	background: #346667;
+	float: left;
+}
+
+.right{
+	width: 140px;
+	height: 500px;
+	background: #5A5A5A;
+	float: left;
+}
+
+#footer{
+	background: #900B09;
+	width: 100%;
+}
+
+
